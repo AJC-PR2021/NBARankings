@@ -1,6 +1,6 @@
 # NBARankings
 
-Data cleaning, analysis and statistical significance tests conducted in Google Colab. The Jupyter Notebook is included with all calculations ran using Python. 
+Data cleaning, analysis and statistical significance tests conducted in Google Colab. The Jupyter Notebook is included with all calculations ran using Python. Tableau workbook with visualizations included as well. 
 
 Research Questions
 
